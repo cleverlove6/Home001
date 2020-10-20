@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="true" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:/gradle-6.4.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/auto-framework" />
+            <option value="$PROJECT_DIR$/basic" />
+            <option value="$PROJECT_DIR$/dubbo-pay-api" />
+            <option value="$PROJECT_DIR$/dubbo-pay-consumer" />
+            <option value="$PROJECT_DIR$/dubbo-pay-provider" />
+            <option value="$PROJECT_DIR$/dubbo-springboot-consumer" />
+            <option value="$PROJECT_DIR$/dubbo-springboot-provider" />
+            <option value="$PROJECT_DIR$/java8" />
+            <option value="$PROJECT_DIR$/java_basic" />
+            <option value="$PROJECT_DIR$/kafka" />
+            <option value="$PROJECT_DIR$/main" />
+            <option value="$PROJECT_DIR$/mock-server" />
+            <option value="$PROJECT_DIR$/mybatis-annotation" />
+            <option value="$PROJECT_DIR$/mybatis-xml" />
+            <option value="$PROJECT_DIR$/mysql-schema-sync" />
+            <option value="$PROJECT_DIR$/mysql-syncer" />
+            <option value="$PROJECT_DIR$/patterns" />
+            <option value="$PROJECT_DIR$/spring" />
+            <option value="$PROJECT_DIR$/springboot-examples" />
+            <option value="$PROJECT_DIR$/springboot-kakfa" />
+            <option value="$PROJECT_DIR$/springboot-mybatis" />
+            <option value="$PROJECT_DIR$/syncer-common" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/tools" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

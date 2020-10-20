@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":dubbo-pay-consumer" external.linked.project.path="$MODULE_DIR$/../../../dubbo-pay-consumer" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="course" external.system.module.version="1.0.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="ExternalSystem" externalSystem="GRADLE" externalSystemModuleGroup="course" externalSystemModuleVersion="1.0.0-SNAPSHOT" linkedProjectId=":dubbo-pay-consumer" linkedProjectPath="$MODULE_DIR$/../../../dubbo-pay-consumer" rootProjectPath="$MODULE_DIR$/../../.." />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../dubbo-pay-consumer">
+      <excludeFolder url="file://$MODULE_DIR$/../../../dubbo-pay-consumer/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../dubbo-pay-consumer/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

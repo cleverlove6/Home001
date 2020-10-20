@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="D:/gradle-6.4.1/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.10/625fc0055674dff70dbc76efa36d0f2c89b04a24/lombok-1.18.10.jar" />
+        </processorPath>
+        <module name="course.untitled.mysql-schema-sync.main" />
+        <module name="course.untitled.springboot-kakfa.main" />
+        <module name="course.untitled.java_basic.main" />
+        <module name="course.untitled.mock-server.main" />
+        <module name="course.untitled.mybatis-annotation.main" />
+        <module name="course.untitled.test.main~1" />
+        <module name="course.untitled.main.main~1" />
+        <module name="course.untitled.mysql-syncer.main" />
+        <module name="course.untitled.java8.main" />
+        <module name="course.untitled.mybatis-xml.main" />
+        <module name="course.untitled.dubbo-springboot-consumer.main" />
+        <module name="course.untitled.spring.main" />
+        <module name="course.untitled.basic.main" />
+        <module name="course.untitled.kafka.main" />
+        <module name="course.untitled.patterns.main" />
+        <module name="course.untitled.dubbo-pay-provider.main" />
+        <module name="course.untitled.dubbo-springboot-provider.main" />
+        <module name="course.untitled.auto-framework.main" />
+        <module name="course.untitled.dubbo-pay-api.main" />
+        <module name="course.untitled.springboot-examples.main" />
+        <module name="course.untitled.syncer-common.main" />
+        <module name="course.untitled.dubbo-pay-consumer.main" />
+        <module name="course.untitled.tools.main" />
+        <module name="course.untitled.springboot-mybatis.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8" />
+  </component>
+</project>
